@@ -40,6 +40,6 @@ Bring your wildest tech dreams, and I'll help you pattern them into reality. Whe
 ### 🌐 Connect & Collaborate
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikshita-c-75370a292)
 
-**"In the world of code, I'm the designer making technology look effortlessly chic."** 💻🪡
+**"In the world of code, I'm the designer working to make the technology look effortlessly chic."** 💻🪡
 
 *Stitching together solutions, one line at a time.*
