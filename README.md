@@ -2,7 +2,7 @@
 ## Crafting Code Like Couture—Precise, Powerful, Personal
 ![Code Couturier](https://img.shields.io/badge/Code-Couturier-FF69B4?style=for-the-badge)
 ![Tech Design](https://img.shields.io/badge/Design-Technology-9C27B0?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=FF69B4&style=for-the-badge&label=ATELIER+VISITS)
+![Atelier Visits](https://komarev.com/ghpvc/?username=snowflakelogic&color=FF69B4&style=for-the-badge&label=ATELIER+VISITS)
 
 ### 🧵 My Tech Runway Collection
 
