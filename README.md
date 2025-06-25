@@ -43,12 +43,6 @@ please consider giving it a ⭐ — it really motivates me!
 I'm also open to contributions, feedback, or creative ideas.  
 Feel free to fork or clone, but credit is appreciated. Let's build together!
 
-### 🤝 Let's Collaborate
-Bring your wildest tech dreams, and I'll help you pattern them into reality. Whether it's a data visualization that dazzles or an application that flows like silk—we'll create something extraordinary together.
-
-### 🌐 Connect & Collaborate
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikshita-c-75370a292)
-
 **"In the world of code, I'm the designer working to make the technology look effortlessly chic."** 💻🪡
 
 *Stitching together solutions, one line at a time.*
