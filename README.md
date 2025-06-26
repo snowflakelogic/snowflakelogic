@@ -19,7 +19,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![HuggingChat](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![UiPath](https://img.shields.io/badge/-UiPath-FF6A00?style=flat-square&logo=uipath&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🎨 Design Philosophy
 - **Precision Tailoring**: Every line of code is a carefully crafted stitch
