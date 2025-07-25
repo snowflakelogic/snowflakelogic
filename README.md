@@ -1,4 +1,5 @@
 # 👗 Welcome to My Digital Atelier 🪡
+## A fresh tech weaver crafting stylish solutions with data and code—precise, powerful, personal.
 ## Crafting Code Like Couture—Precise, Powerful, Personal
 ![Code Couturier](https://img.shields.io/badge/Code-Couturier-FF69B4?style=for-the-badge)
 ![Tech Design](https://img.shields.io/badge/Design-Technology-9C27B0?style=for-the-badge)
@@ -35,13 +36,6 @@
 2. **Functionality** is the Ultimate Accessory
 3. **Innovation** is Always in Fashion
 
-### 🌟 Support & Contributions
-
-If you found my work helpful or inspiring,  
-please consider giving it a ⭐ — it really motivates me!
-
-I'm also open to contributions, feedback, or creative ideas.  
-Feel free to fork or clone, but credit is appreciated. Let's build together!
 
 **"In the world of code, I'm the designer working to make the technology look effortlessly chic."** 💻🪡
 
